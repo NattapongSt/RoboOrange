@@ -1,6 +1,8 @@
 # RoboOrange
 
-## Setup
+Setup systems
+
+## Clone repository
 
 ```bash
 git clone https://github.com/NattapongSt/RoboOrange
