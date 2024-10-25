@@ -1,6 +1,6 @@
 # RoboOrange
 
-Setup systems
+Setup RoboOrange systems
 
 ## Clone repository
 
@@ -32,7 +32,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Run systems
+## Run RoboOrange systems
 
 ```bash
 python GUI.py
